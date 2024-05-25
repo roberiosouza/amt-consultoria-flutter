@@ -68,6 +68,12 @@ flutter:
     - images/menu_contato.png
     - images/menu_empresa.png
     - images/menu_servico.png
+    - images/detalhe_empresa.png
+    - images/detalhe_servico.png
+    - images/detalhe_cliente.png
+    - images/detalhe_contato.png
+    - images/cliente1.png
+    - images/cliente2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
